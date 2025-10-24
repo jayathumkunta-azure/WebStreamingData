@@ -1,0 +1,9 @@
+{
+	"name": "webtoadls",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d521189a-c84a-4419-aa8c-c8acd53f41ae",
+		"tenantId": "cd319671-52e7-4a68-afa9-fcf8f89f09ea"
+	}
+}
